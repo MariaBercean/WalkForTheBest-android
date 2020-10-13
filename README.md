@@ -1,5 +1,5 @@
 # WalkForTheBest-android
-Android application to track sport activity to a group of friends
+Android application to track  individual sport activity.
 
 Application specifications:
 
